@@ -1,0 +1,16 @@
+body{
+
+    background: linear-gradient(100deg,rgb(255, 149, 167),rgb(252, 219, 226));
+}
+ form{
+    background-color: white;
+    width: 450px;
+    padding: 50px 40px ;
+    position: absolute;
+    transform: translate(20%);
+    top: 10%;
+    left: 30%;
+    border-radius: 10px;
+    box-shadow: 20px 20px 40px ;
+}
+img
